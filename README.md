@@ -59,6 +59,12 @@ These are the path I've been going through on my web development journey.
 * [StrapiJS](https://strapi.io/)
 * [NetlifyCMS](https://www.netlifycms.org/)
 
+## Database
+
+* [PostgreSQL](https://www.postgresql.org/)
+* [MongoDB](https://www.mongodb.com/)
+* [Firebase](https://firebase.google.com/)
+
 ## Deployment
 
 * [Vercel](https://vercel.com/)
@@ -66,9 +72,3 @@ These are the path I've been going through on my web development journey.
 * [GitHub Pages](https://pages.github.com/)
 * [Surge](https://surge.sh/)
 * [Heroku](https://www.heroku.com/)
-
-## Database
-
-* [PostgreSQL](https://www.postgresql.org/)
-* [MongoDB](https://www.mongodb.com/)
-* [Firebase](https://firebase.google.com/)
