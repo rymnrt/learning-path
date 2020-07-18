@@ -30,6 +30,12 @@ TraversyMedia YouTube channel videos about CSS advanced topics by Brad Traversy:
     * [JavaScript30](https://javascript30.com/) : Free by Wes Bos
     * [JavaScript Challenge](https://dev.to/asabeneh/30-days-of-javascript-challenge-56kd) : Details are on [GitHub](https://github.com/Asabeneh/30DaysOfJavaScript)
 
+### NodeJS + NPM
+
+* [NodeJS](https://nodejs.org/en/docs/)
+  * [Express](http://expressjs.com/)
+* [NPM](https://docs.npmjs.com/)
+
 ### ReactJS
 
 1. Online Tutorial
@@ -42,12 +48,6 @@ TraversyMedia YouTube channel videos about CSS advanced topics by Brad Traversy:
 3. Online Course
     * [A Beginners Guide to React Introduction](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction) : Free course at egghead.io
     * [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/) : Udemy course by Brad Traversy
-
-### NodeJS + NPM
-
-* [NodeJS](https://nodejs.org/en/docs/)
-  * [Express](http://expressjs.com/)
-* [NPM](https://docs.npmjs.com/)
 
 ## UI Library
 
