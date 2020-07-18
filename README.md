@@ -46,7 +46,6 @@ TraversyMedia YouTube channel videos about CSS advanced topics by Brad Traversy:
     * [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) : YouTube playlist by The Net Ninja
 
 3. Online Course
-    * [A Beginners Guide to React Introduction](https://egghead.io/lessons/react-a-beginners-guide-to-react-introduction) : Free course at egghead.io
     * [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/) : Udemy course by Brad Traversy
 
 ## UI Library
