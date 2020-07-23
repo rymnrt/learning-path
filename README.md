@@ -82,3 +82,8 @@ TraversyMedia YouTube channel videos about CSS advanced topics by Brad Traversy:
 * [GitHub Pages](https://pages.github.com/)
 * [Surge](https://surge.sh/)
 * [Heroku](https://www.heroku.com/)
+
+## Full Stack Development
+
+* [Full Stack Open 2020](https://fullstackopen.com/en/)
+* [Full Stack React and Firebase](https://www.youtube.com/watch?v=m_u6P5k0vP0)
